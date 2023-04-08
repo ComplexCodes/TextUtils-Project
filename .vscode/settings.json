@@ -1,0 +1,10 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.useInlineCompletions": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.linkedEditing": true
+}
